@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e136c8d1.css",
-    "main.js": "/static/js/main.8dffc8ea.js",
-    "static/js/787.6f04928a.chunk.js": "/static/js/787.6f04928a.chunk.js",
-    "index.html": "/index.html",
-    "main.e136c8d1.css.map": "/static/css/main.e136c8d1.css.map",
-    "main.8dffc8ea.js.map": "/static/js/main.8dffc8ea.js.map",
-    "787.6f04928a.chunk.js.map": "/static/js/787.6f04928a.chunk.js.map"
+    "main.css": "/vishwakarmafactory/static/css/main.e136c8d1.css",
+    "main.js": "/vishwakarmafactory/static/js/main.ca27191d.js",
+    "static/js/787.6f04928a.chunk.js": "/vishwakarmafactory/static/js/787.6f04928a.chunk.js",
+    "index.html": "/vishwakarmafactory/index.html",
+    "main.e136c8d1.css.map": "/vishwakarmafactory/static/css/main.e136c8d1.css.map",
+    "main.ca27191d.js.map": "/vishwakarmafactory/static/js/main.ca27191d.js.map",
+    "787.6f04928a.chunk.js.map": "/vishwakarmafactory/static/js/787.6f04928a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e136c8d1.css",
-    "static/js/main.8dffc8ea.js"
+    "static/js/main.ca27191d.js"
   ]
 }
